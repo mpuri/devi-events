@@ -1,0 +1,24 @@
+{
+  "name": "devi-events",
+  "version": "0.0.1",
+  "description": "Devi events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpuri/devi-events.git"
+  },
+  "dependencies":{
+    "express" : "3.4.4",
+    "express3-handlebars" : "0.5.0"
+  },
+  "author": "mavina puri",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "2c5e4227ee987e04ffffef619dfd44ee53a80062",
+  "bugs": {
+    "url": "https://github.com/mpuri/devi-events/issues"
+  }
+}
